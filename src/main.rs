@@ -1,5 +1,5 @@
 fn main() {
     println!("Hola mundo!");
 
-    println!("Adios mundo!");
+    println!("Adios mundo bueno!");
 }
